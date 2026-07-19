@@ -2,6 +2,12 @@
 
 This document describes the issues encountered while trying to get the display working using the driver contained in this repository.
 
+The program is designed to run on a **Raspberry Pi Pico W** and can be executed using the following command:
+
+```bash
+cargo run --release
+```
+
 ## Stuck BUSY signal
 
 The main problem encountered concerns the **BUSY** signal. It seems that this signal never goes high, preventing the program from proceeding with execution.
