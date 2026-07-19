@@ -1,0 +1,26 @@
+[package]
+name = "alarm-firmware"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+embassy-executor = { version = "0.10.0", features = ["platform-cortex-m", "executor-thread", "executor-interrupt", "defmt"] }
+embassy-time = { version = "0.5.1" }
+embassy-rp = { version = "0.10.0", features = ["unstable-pac", "critical-section-impl", "rp2040", "time-driver"] }
+embassy-embedded-hal = "0.6.0"
+embassy-sync = "0.8.0"
+uc8253 = { path = "uc8253", features = ["defmt"] }
+
+defmt = "1.1.0"
+defmt-rtt = "1.2.0"
+panic-probe = { version = "1.0.0", features = ["print-defmt"] }
+
+cortex-m = { version = "0.7.6" }
+cortex-m-rt = "0.7.0"
+static_cell = "2"
+portable-atomic = { version = "1.5", features = ["critical-section"] }
+
+[profile.release]
+opt-level = "s"
+lto = "fat"
+debug = 2
