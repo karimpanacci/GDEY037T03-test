@@ -8,8 +8,8 @@ The program is designed to run on a **Raspberry Pi Pico W** and can be executed 
 cargo run --release
 ```
 
-## Connection Schematic
-
+## ESP32-FTS02 Connection Schematic
+ESP32-FTS02 full original schematic: https://v4.cecdn.yun300.cn/100001_1909185148/ESP32-FTS02_SCH-20250819.pdf
 ![Connection Schematic](schematic.png)
 
 ## Stuck BUSY signal
