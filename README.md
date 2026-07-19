@@ -8,6 +8,10 @@ The program is designed to run on a **Raspberry Pi Pico W** and can be executed 
 cargo run --release
 ```
 
+## Connection Schematic
+
+![Connection Schematic](schematic.png)
+
 ## Stuck BUSY signal
 
 The main problem encountered concerns the **BUSY** signal. It seems that this signal never goes high, preventing the program from proceeding with execution.
