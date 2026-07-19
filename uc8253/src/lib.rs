@@ -332,7 +332,7 @@ where
     ) -> Result<(), Error<SPI::Error, DC::Error, RST::Error, BSY::Error>> {
         //debug!("wait for busy");
 
-        // IT LOOKS THAT BUSY SIGNAL NEVER GOES HIGH AND THE PROGRAM STOP HERE; WE CAN SIMULATE IT BY WAITING 1000MS
+        // IT LOOKS THAT BUSY SIGNAL NEVER GOES HIGH AND THE PROGRAM STOP HERE; WE CAN BYPASS IT BY WAITING 1000MS
         self.busy.wait_for_high().await.map_err(Error::BSY)?;
         // self.delay.delay_ms(1000).await;
 

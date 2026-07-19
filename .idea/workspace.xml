@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml">
+      <package file="$PROJECT_DIR$">
+        <feature name="default" enabled="true" />
+      </package>
+    </cargoProject>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eda6aa58-d5c8-42c7-94d1-147f42584ab4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uc8253/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/uc8253/src/lib.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="1924" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "karimpanacci"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/karimpanacci/GDEY037T03-test.git",
+    "accountId": "449a3c9d-dd42-46d4-b493-04b33159a8fb"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="tqRuOQNJ" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000025" />
+      <entry key="S2" value="1.000645126668256" />
+      <entry key="S5" value="1.0842216936490696" />
+      <entry key="S10" value="1.7107036856953846" />
+      <entry key="S30" value="7.655240259535762" />
+      <entry key="S60" value="15.563459827211465" />
+      <entry key="M2" value="45.96777361896226" />
+      <entry key="M5" value="165.20263717219987" />
+      <entry key="M10" value="273.1464427754842" />
+      <entry key="M15" value="324.74553595673876" />
+      <entry key="M30" value="386.9553855594593" />
+      <entry key="H1" value="422.7170153710523" />
+      <entry key="H2" value="441.89711321243414" />
+      <entry key="H4" value="451.83044181121124" />
+      <entry key="D1" value="460.28842856312184" />
+      <entry key="W1" value="461.75507899019954" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1166291239421009" />
+      <entry key="MS500" value="0.6506709277209913" />
+      <entry key="S2" value="0.8987731473910978" />
+      <entry key="S5" value="1.0419273161950722" />
+      <entry key="S10" value="1.6887373583443648" />
+      <entry key="S30" value="7.646734294182262" />
+      <entry key="S60" value="15.558496916427977" />
+      <entry key="M2" value="45.963688265960634" />
+      <entry key="M5" value="165.19831945448885" />
+      <entry key="M10" value="273.1430414944407" />
+      <entry key="M15" value="324.74286931289623" />
+      <entry key="M30" value="386.95381061701016" />
+      <entry key="H1" value="422.7161582345133" />
+      <entry key="H2" value="441.8966659329431" />
+      <entry key="H4" value="451.83021332239645" />
+      <entry key="D1" value="460.28838979317595" />
+      <entry key="W1" value="461.755073434577" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GjSo9lpOWiyYIGV68wPcaCdJdS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/karim/Documents/epd-test",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eda6aa58-d5c8-42c7-94d1-147f42584ab4" name="Changes" comment="" />
+      <created>1784483661155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784483661155</updated>
+      <workItem from="1784483662878" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
